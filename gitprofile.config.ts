@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'Mis proyectos',
+      header: 'Els meus projectes',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -57,8 +57,8 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    phone: '642793407',
-    email: 'arifulalamszn@gmail.com',
+    telèfon: '642793407',
+    correu: 'arifulalamszn@gmail.com',
   },
   resume: {
     fileUrl:
