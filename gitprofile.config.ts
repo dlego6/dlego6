@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Mis proyectos',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
